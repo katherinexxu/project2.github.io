@@ -1,0 +1,285 @@
+body{
+	background-color: #E1DDD8;
+}
+
+h1{
+	font-size: 200px;
+  	background: -webkit-linear-gradient(#A07A70 0%, rgba(160,122,112,0) 100%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	font-family: IM FELL DW Pica;
+}
+
+
+p {
+	text-align:left;
+	font-family:IM FELL DW Pica;
+	font-size:40px;
+	color:#C1A79D;
+	line-height: 50px;
+	width: 1374px;
+	height: 589px;
+	left: 66px;
+	top: 328px;
+}
+
+div{
+	margin: 40px;
+}
+
+.finding{
+	position: absolute;
+	width: 179px;
+	height: 74px;
+	left: 123px;
+	top: 2200px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.finding:hover{
+	color:#000000;
+}
+
+.a{
+	position: absolute;
+	width: 40px;
+	height: 70px;
+	left: 350px;
+	top: 2300px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.a:hover{
+	color:#000000;
+}
+
+.fruit{
+	position: absolute;
+	width: 178px;
+	height: 71px;
+	left: 477.47px;
+	top: 2400px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+
+	color: #D13030;
+
+	transform: rotate(11.07deg);
+}
+
+.fruit:hover{
+	color:#000000;
+}
+.on{
+	position: absolute;
+	width: 89px;
+	height: 70px;
+	left: 680px;
+	top: 2500px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.on:hover{
+	color:#000000;
+}
+
+.the{
+	position: absolute;
+	width: 107px;
+	height: 70px;
+	left: 858px;
+	top: 2600px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+	color: #D13030;
+}
+.the:hover{
+	color:#000000;
+}
+
+.ground{
+	position: absolute;
+	width: 178px;
+	height: 70px;
+	left: 1068px;
+	top: 2700px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 60px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.ground:hover{
+	color:#000000;
+}
+
+.mark{
+	position: absolute;
+	width: 178px;
+	height: 70px;
+	left: 1250px;
+	top: 1900px;
+
+	font-family: IM FELL DW Pica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 500px;
+	line-height: 625px;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+.The{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 830px;
+	top: 1720px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.poem{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 950px;
+	top: 1760px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.is{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 600px;
+	top: 1800px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+.an{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 1000px;
+	top: 1860px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.interpretation{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 700px;
+	top: 2000px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.of{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 1300px;
+	top: 2300px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.weird{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 200px;
+	top: 2600px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.theatrical{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 570px;
+	top: 2800px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+.shit{
+	position: absolute;
+	width: 180px;
+	height: 144px;
+	left: 760px;
+	top: 3000px;
+
+	font-family: IM FELL DW Pica;
+	font-size: 40px;
+	line-height: 75px;
+
+	color: #D13030;
+}
+
+
+
+
+
+
+
