@@ -7,13 +7,13 @@ h1{
   	background: -webkit-linear-gradient(#A07A70 0%, rgba(160,122,112,0) 100%);
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
-  	font-family: IM FELL DW Pica;
+  	font-family: IM FELL DW Pica, Times;
 }
 
 
 p {
 	text-align:left;
-	font-family:IM FELL DW Pica;
+	font-family:IM FELL DW Pica, Times;
 	font-size:40px;
 	color:#C1A79D;
 	line-height: 50px;
@@ -34,7 +34,7 @@ div{
 	left: 123px;
 	top: 2200px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 
@@ -52,7 +52,7 @@ div{
 	left: 350px;
 	top: 2300px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 
@@ -70,7 +70,7 @@ div{
 	left: 477.47px;
 	top: 2400px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 
@@ -89,7 +89,7 @@ div{
 	left: 680px;
 	top: 2500px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 
@@ -107,7 +107,7 @@ div{
 	left: 858px;
 	top: 2600px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 	color: #D13030;
@@ -123,7 +123,7 @@ div{
 	left: 1068px;
 	top: 2700px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 60px;
 	line-height: 75px;
 
@@ -141,7 +141,7 @@ div{
 	left: 1250px;
 	top: 1900px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 500px;
@@ -159,7 +159,7 @@ a:link{
 	left: 830px;
 	top: 1720px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -173,7 +173,7 @@ a:link{
 	left: 950px;
 	top: 1760px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -187,7 +187,7 @@ a:link{
 	left: 600px;
 	top: 1800px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -200,7 +200,7 @@ a:link{
 	left: 1000px;
 	top: 1860px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -214,7 +214,7 @@ a:link{
 	left: 700px;
 	top: 2000px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -228,7 +228,7 @@ a:link{
 	left: 1300px;
 	top: 2300px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -242,7 +242,7 @@ a:link{
 	left: 200px;
 	top: 2600px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -256,7 +256,7 @@ a:link{
 	left: 570px;
 	top: 2800px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
@@ -270,7 +270,7 @@ a:link{
 	left: 760px;
 	top: 3000px;
 
-	font-family: IM FELL DW Pica;
+	font-family: IM FELL DW Pica, Times;
 	font-size: 40px;
 	line-height: 75px;
 
