@@ -8,9 +8,12 @@ h1{
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
   	font-family: IM FELL DW Pica, Times;
-  	padding-bottom: 0.2em;
-  	padding-top: 0.2em;
-  	padding-right: 0.2em;
+  	width: 100%;
+ 	padding: 0 2rem;
+  	display: flex;
+  	flex-direction: row;
+  	position: fixed;
+ 
 }
 
 
@@ -294,7 +297,6 @@ a:link{
 	left: 1000px;
 	top: 2000px;
 }
-
 
 
 
