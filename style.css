@@ -1,3 +1,6 @@
+@media only screen and (min-width: 800px) {
+ 
+
 body{
 	background-color: #E1DDD8;
 }
@@ -8,6 +11,10 @@ h1{
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
   	font-family: IM FELL DW Pica, Times;
+  	justify-content: space-between;
+    position: relative;
+  }
+
 }
 
 
@@ -291,6 +298,7 @@ a:link{
 	left: 1000px;
 	top: 2000px;
 }
+
 
 
 
