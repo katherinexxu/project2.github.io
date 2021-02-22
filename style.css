@@ -2,8 +2,6 @@ body{
 	background-color: #E1DDD8;
 }
 
-@media only screen and (min-width: 800px) {
-
 h1{
 	font-size: 200px;
   	background: -webkit-linear-gradient(#A07A70 0%, rgba(160,122,112,0) 100%);
@@ -14,8 +12,16 @@ h1{
     position: relative;
   }
 
+@media (max-width: 600px) {
+  h1 {
+    font-size: 80px;
 }
+  
+  body{
+  	background-color: #C1A79D;
 
+}
+}
 
 p {
 	text-align:left;
