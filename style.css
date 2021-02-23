@@ -316,7 +316,24 @@ a:link{
 	top: 2000px;
 }
 
+.colon{
+	color: #A07A70;
+	position: absolute;
+	width: 449px;
+	height: 1446px;
+	left: 1063.5px;
+	top: 2100px;
 
+	font-family: IM FELL DW Pica, Times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1000px;
+	line-height: 625px;
+	transform: rotate(3.55deg);
+}
+
+body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
+	}
 
 
 
