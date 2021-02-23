@@ -335,6 +335,11 @@ a:link{
 body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
 	}
 
+.wrapper{
+	color: #A07A70;
+	text-align: center;
+}
+
 
 
 
