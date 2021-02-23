@@ -29,6 +29,12 @@ h1{
 }
 }
 
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: #E1DDD8;
+  }
+}
+
 p {
 	text-align:left;
 	font-family:IM FELL DW Pica, Times;
