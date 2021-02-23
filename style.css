@@ -345,4 +345,13 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
 	text-align: center;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
+.ending{
+  	background: -webkit-linear-gradient(#A07A70 0%, rgba(160, 122, 112, 0) 35%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
