@@ -40,35 +40,16 @@ h1{
 }
   
   body{
-  	background-color: #C1A79D;}
-
-  p{ 
-    text-align:left;
-	font-family:'im_fell_dw_picaregular';
-	font-size:40px;
-	color:#C1A79D;
-	line-height: 50px;
-	width: 1374px;
-	height: 589px;
-	left: 66px;
-	top: 328px;
-	 
+  	background-color: #C1A79D;
 
 }
 
 }
 
-
-  .arrow{
-  	background: -webkit-linear-gradient(180deg, #C1A79D 15.45%, #A07A70 122.29%); 
-  	-webkit-background-clip: text;
-  	-webkit-text-fill-color: transparent;
-  	padding-bottom: 0.2em;
-  	padding-top: 0.2em;
-  	padding-right: 0.2em;
-
-
-
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: #E1DDD8;
+  }
 }
 
 p {
