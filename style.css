@@ -19,7 +19,6 @@
 
 }
 
-
 body{
 	background-color: #E1DDD8;
 }
@@ -33,17 +32,6 @@ h1{
   	justify-content: space-between;
     position: relative;
   }
-
-@media (max-width: 600px) {
-  h1 {
-    font-size: 80px;
-}
-  
-  body{
-  	background-color: #C1A79D;
-
-}
-}
 
 p {
 	text-align:left;
@@ -364,4 +352,15 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
   	background: -webkit-linear-gradient(#A07A70 0%, rgba(160, 122, 112, 0) 35%);
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 80px;
+}
+  
+  body{
+  	background-color: #C1A79D;
+
+}
 }
