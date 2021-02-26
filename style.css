@@ -55,6 +55,17 @@ h1{
   body {
     background-color: #E1DDD8;
   }
+
+  .arrow{
+  	background: -webkit-linear-gradient(180deg, #C1A79D 15.45%, #A07A70 122.29%); 
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	padding-bottom: 0.2em;
+  	padding-top: 0.2em;
+  	padding-right: 0.2em;
+
+
+
 }
 
 p {
