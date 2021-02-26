@@ -40,7 +40,19 @@ h1{
 }
   
   body{
-  	background-color: #C1A79D;
+  	background-color: #C1A79D;}
+
+  p{ 
+    text-align:left;
+	font-family:'im_fell_dw_picaregular';
+	font-size:40px;
+	color:#C1A79D;
+	line-height: 50px;
+	width: 1374px;
+	height: 589px;
+	left: 66px;
+	top: 328px;
+	 
 
 }
 
