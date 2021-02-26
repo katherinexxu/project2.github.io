@@ -363,4 +363,9 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
   	background-color: #C1A79D;
 
 }
+.arrow{
+	background: -webkit-linear-gradient(180deg, #000000 15.45%, rgba(193, 167, 157, 0) 85.98%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
 }
