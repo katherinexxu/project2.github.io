@@ -34,7 +34,6 @@ h1{
     position: relative;
   }
 
-
 @media (max-width: 600px) {
   h1 {
     font-size: 80px;
@@ -45,6 +44,18 @@ h1{
 
 }
 
+.arrow{
+	background: -webkit-linear-gradient(180deg, #A07A70 15.45%, rgba(193, 167, 157, 0) 85.98%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+}
+
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: #E1DDD8;
+  }
+
   .arrow{
   	background: -webkit-linear-gradient(180deg, #C1A79D 15.45%, #A07A70 122.29%); 
   	-webkit-background-clip: text;
@@ -52,6 +63,9 @@ h1{
   	padding-bottom: 0.2em;
   	padding-top: 0.2em;
   	padding-right: 0.2em;
+
+
+
 }
 
 p {
