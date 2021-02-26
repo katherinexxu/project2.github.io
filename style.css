@@ -357,7 +357,7 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
 
 @media (max-width: 600px) {
   h1 {
-    font-size: 80px;
+    font-size: 60px;
 }
   
   body{
