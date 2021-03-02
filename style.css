@@ -189,6 +189,37 @@ a:link{
 	color: #D13030;
 }
 
+.The:hover{
+	color:#000000;
+}
+
+.poem:hover{
+	color:#000000;
+}
+
+.is:hover{
+	color:#000000;
+}
+.an:hover{
+	color:#000000;
+}
+.interpretation:hover{
+	color:#000000;
+}
+.of:hover{
+	color:#000000;
+}
+
+.weird:hover{
+	color:#000000;
+}
+.theatrical:hover{
+	color:#000000;
+}
+
+.shit:hover{
+	color:#000000;
+}
 .poem{
 	position: absolute;
 	width: 180px;
@@ -345,15 +376,17 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
 }
 
 .dark-mode {
-  background-color: black;
-  color: white;
+  background-color: black ;
+  color: #E1DDD8;
 }
 
 .ending{
-  	background: -webkit-linear-gradient(#A07A70 0%, rgba(160, 122, 112, 0) 35%);
+  	background: -webkit-linear-gradient(#A07A70 1.06%, #E1DDD8 49.82%);
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
 }
+
+.pointer{cursor: pointer; }
 
 @media (max-width: 600px) {
   h1 {
@@ -372,5 +405,4 @@ body.fourth{background: linear-gradient(180deg, #E1DDD8 0%, #D0CAC6 100%);
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
 }
-
 }
