@@ -33,6 +33,15 @@ h1{
     position: relative;
   }
 
+h2{
+  	background: -webkit-linear-gradient(#A07A70 0%, rgba(160,122,112,0) 100%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	font-family: 'im_fell_dw_picaregular';
+  	justify-content: space-between;
+    position: relative;
+}
+
 p {
 	text-align:left;
 	font-family:'im_fell_dw_picaregular';
@@ -44,6 +53,17 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+a:link {
+  color: #E1DDD8;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #E1DDD8;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 div{
