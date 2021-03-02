@@ -55,16 +55,18 @@ p {
     margin-inline-end: 0px;
 }
 
-a:link {
+
+#link:link {
   color: #E1DDD8;
   background-color: transparent;
   text-decoration: none;
 }
-a:visited {
+#link:visited {
   color: #E1DDD8;
   background-color: transparent;
   text-decoration: none;
 }
+
 
 div{
 	margin: 40px;
